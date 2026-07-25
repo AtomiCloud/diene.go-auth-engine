@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/AtomiCloud/diene.go-auth-engine/compare/v1.0.0...v1.0.1) (2026-07-25)
+
+
+### 🐛 Bug Fixes 🐛
+
+* **auth-engine:** repair the publish-verification consumer ([a7ca69c](https://github.com/AtomiCloud/diene.go-auth-engine/commit/a7ca69c5fd13f023d0c1c20ae8b3d4855b50c35f))
+
 ## 1.0.0 (2026-07-25)
 
 
